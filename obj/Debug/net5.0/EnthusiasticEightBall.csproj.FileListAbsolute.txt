@@ -1,0 +1,16 @@
+C:\Users\zach2\workspace\EnthusiasticEightBall\bin\Debug\net5.0\EnthusiasticEightBall.exe
+C:\Users\zach2\workspace\EnthusiasticEightBall\bin\Debug\net5.0\EnthusiasticEightBall.deps.json
+C:\Users\zach2\workspace\EnthusiasticEightBall\bin\Debug\net5.0\EnthusiasticEightBall.runtimeconfig.json
+C:\Users\zach2\workspace\EnthusiasticEightBall\bin\Debug\net5.0\EnthusiasticEightBall.runtimeconfig.dev.json
+C:\Users\zach2\workspace\EnthusiasticEightBall\bin\Debug\net5.0\EnthusiasticEightBall.dll
+C:\Users\zach2\workspace\EnthusiasticEightBall\bin\Debug\net5.0\ref\EnthusiasticEightBall.dll
+C:\Users\zach2\workspace\EnthusiasticEightBall\bin\Debug\net5.0\EnthusiasticEightBall.pdb
+C:\Users\zach2\workspace\EnthusiasticEightBall\obj\Debug\net5.0\EnthusiasticEightBall.csproj.AssemblyReference.cache
+C:\Users\zach2\workspace\EnthusiasticEightBall\obj\Debug\net5.0\EnthusiasticEightBall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zach2\workspace\EnthusiasticEightBall\obj\Debug\net5.0\EnthusiasticEightBall.AssemblyInfoInputs.cache
+C:\Users\zach2\workspace\EnthusiasticEightBall\obj\Debug\net5.0\EnthusiasticEightBall.AssemblyInfo.cs
+C:\Users\zach2\workspace\EnthusiasticEightBall\obj\Debug\net5.0\EnthusiasticEightBall.csproj.CoreCompileInputs.cache
+C:\Users\zach2\workspace\EnthusiasticEightBall\obj\Debug\net5.0\EnthusiasticEightBall.dll
+C:\Users\zach2\workspace\EnthusiasticEightBall\obj\Debug\net5.0\ref\EnthusiasticEightBall.dll
+C:\Users\zach2\workspace\EnthusiasticEightBall\obj\Debug\net5.0\EnthusiasticEightBall.pdb
+C:\Users\zach2\workspace\EnthusiasticEightBall\obj\Debug\net5.0\EnthusiasticEightBall.genruntimeconfig.cache
